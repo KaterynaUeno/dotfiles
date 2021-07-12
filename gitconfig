@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = katerynaueno@gmail.com
+	name = Kateryna Ueno
